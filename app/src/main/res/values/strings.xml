@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Verificación RED</string>
+    <string name="image">Imagen</string>
+    <string name="working_offline">No existe conexión a internet</string>
+    <string name="connected">Conectado</string>
+    <string name="message_alert">Alerta!!!</string>
+    <string name="export_error">No existe conexión a internet</string>
+    <string name="value_button_close">Cerrar</string>
+    <string name="connected_successful">Conectado satisfactoriamente</string>
+</resources>
